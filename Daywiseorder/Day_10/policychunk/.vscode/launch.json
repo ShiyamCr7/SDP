@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-PolicychunkApplication<policychunk>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.tucs215.policychunk.PolicychunkApplication",
+            "projectName": "policychunk",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
